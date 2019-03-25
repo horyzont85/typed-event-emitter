@@ -1,6 +1,6 @@
 {
   "name": "@horyzont85/typed-event-emitter",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Typed Event Emitter",
   "engineStrict": true,
   "main": "dist/TypedEventEmitter.js",
